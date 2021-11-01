@@ -10,7 +10,7 @@
   </div></br>
 </div></br>
 <div></br>
-    <img align="right" alt="working-community" src="https://im7.ezgif.com/tmp/ezgif-7-6bd3d4f82013.gif">
+    
   </div>
 
   ##
