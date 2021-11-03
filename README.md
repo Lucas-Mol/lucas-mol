@@ -7,12 +7,12 @@
     👨‍🎓 Estudante entusiasta de técnologia e programação </br>
     📚 Atualmente aprendendo Java Web e Javascript </br>
     💻 Desenvolvedor de software </br>
-  </div></br>
-</div></br>
-<div></br>
-    
-  </div>
+  </div><br>
+</div><br>
+<br>
 
+  <img display="inline-block" align="right" src="https://cdn.discordapp.com/attachments/778788148921761822/905511491548102707/ezgif.com-gif-maker_1.gif"/>
+  
   ##
   
   <a href = "mailto: lucasmolpro@outlook.com"><img src="https://cdn.discordapp.com/attachments/778788148921761822/902616373086261278/icons8-ms-outlook-48_1.png" target="_blank"></a>
