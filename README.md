@@ -10,7 +10,6 @@
   </div><br>
 </div><br>
 <br>
-
   <img display="inline-block" align="right" src="https://cdn.discordapp.com/attachments/778788148921761822/905511491548102707/ezgif.com-gif-maker_1.gif"/>
   
   ##
