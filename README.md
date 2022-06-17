@@ -5,7 +5,7 @@
     <img display="inline-block" align="right" height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucas-Mol&layout=compact&langs_count=8&theme=dracula"/></br></a>
   <div display="inline-block">
     👨‍🎓 Estudante entusiasta de técnologia e programação </br>
-    📚 Atualmente aprendendo Java Web e Javascript </br>
+    📚 Atualmente aprendendo Java Web, Javascript e Clojure </br>
     💻 Desenvolvedor de software </br>
   </div><br>
 </div><br>
