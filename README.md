@@ -7,6 +7,7 @@
     👨‍🎓 Estudante entusiasta de técnologia e programação </br>
     📚 Atualmente aprendendo Java Web, Javascript e Clojure </br>
     💻 Desenvolvedor de software </br>
+    Website/Portfólio: https://lucas-mol.github.io </br>
   </div><br>
 </div><br>
 <br>
@@ -17,18 +18,3 @@
   <a href = "mailto: lucasmolpro@outlook.com"><img src="https://cdn.discordapp.com/attachments/778788148921761822/902616373086261278/icons8-ms-outlook-48_1.png" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/lucasmolpro/"><img src="https://cdn.discordapp.com/attachments/778788148921761822/902616679970910208/icons8-linkedin-48.png" target="_blank"></a>
   
-  
-<!--
-**Lucas-Mol/lucas-mol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
