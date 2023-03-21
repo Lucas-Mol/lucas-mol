@@ -7,7 +7,7 @@
 
 - 👨‍🎓 Computer Science Student and technology enthusiast</br>
 - 📚 Currently learning more in depth about Java Web and its APIs,</br>
-    as well as React to Frontend and Cybersecurity Essentials</br> 
+    as well as React to Frontend and Cybersecurity</br> 
     _(to provide on Web Application security and beyond)_ </br>
 - 💻 Web Developer </br>
     Website: https://lucas-mol.github.io </br>
