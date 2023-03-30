@@ -39,6 +39,7 @@
   [![Maven](https://img.shields.io/badge/Maven-f28213?style=for-the-badge&logo=apachemaven)](https://maven.apache.org)
   [![Hibernate](https://img.shields.io/badge/Hibernate-404040?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org)
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
+  [![Spring Security](https://img.shields.io/badge/Spring_Security-215811?style=for-the-badge&logo=springsecurity)](https://docs.spring.io/spring-security/reference/index.html)
   [![Spring-Boot](https://img.shields.io/badge/Spring_Boot-5DB32F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
   [![JUnit5](https://img.shields.io/badge/Junit_5-FF113D?style=for-the-badge&logo=junit5)](https://junit.org/junit5/)
   [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -76,8 +77,7 @@
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-282A36?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/)
  
   ## 📚 Next up
-
-  [![Spring Security](https://img.shields.io/badge/Spring_Security-215811?style=for-the-badge&logo=springsecurity)](https://docs.spring.io/spring-security/reference/index.html)
+  
   [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
   [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com)
 
