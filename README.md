@@ -2,7 +2,7 @@
 
 
   <a href="https://github.com/Lucas-Mol">
-    <img display="block" align="right" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucas-Mol&layout=compact&langs_count=8&theme=dracula"/></br></a>
+    <img display="block" align="right" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lucas-Mol&layout=compact&langs_count=8&theme=dracula"/></br></a>
     
 
 - 👨‍🎓 Computer Science Student and technology enthusiast</br>
