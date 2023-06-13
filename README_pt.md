@@ -43,8 +43,10 @@
   [![Spring Security](https://img.shields.io/badge/Spring_Security-215811?style=for-the-badge&logo=springsecurity)](https://docs.spring.io/spring-security/reference/index.html)
   [![Spring-Boot](https://img.shields.io/badge/Spring_Boot-5DB32F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
   [![JUnit5](https://img.shields.io/badge/Junit_5-FF113D?style=for-the-badge&logo=junit5)](https://junit.org/junit5/)
-  [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
   [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
+  [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+  [![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io)
+  [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
   <br>
    <strong>Frontend Stack</strong> 
@@ -53,8 +55,10 @@
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
   [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-  [![Electron](https://img.shields.io/badge/Electron-2C313C?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org)
+  [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+  [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
   <br>
+  [![Electron](https://img.shields.io/badge/Electron-2C313C?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org)
   [![Primefaces](https://img.shields.io/badge/primefaces-007ACC?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAAAXNSR0IArs4c6QAAA5BJREFUWEfNlz1oFFEQgOft7Z2Jud19cyGmEoIKWikWiogi2sTO2GhlqUVE/AFFbG1ERRRJobWNVYg2WggmaKGIoFUEFUEIBsR5eyE/4t6OvCMb9vb2591dBF+5O2/mm3kz8+YJ+I+W+I9YoGcYRHwMACcA4DkRHe3Fua5gPM87bVnWwyzDYRhe9n3/dqdgxjCe522xLOtLpwYAYBcRfTTZVwiDiAEAlEyUFcgwEVl5MqkwiLgIABvXASBLxTIRtelvgUFENgFgZtRyKysrXl9fnx/tEUIwMzd1CiHIRBcRrTF0DBPfnDTmum6tXq//ir6bOJcH8wEAdmZ5lAApA8CfPO8dxxm0bftnlgwzf1VKbV2LbFzQ87wzlmU9SGzmRqOxv1QqPWHmGaXUSQBoIOJ3ItqcNKQTnohsAOhDxEkAGAmC4Jht25+SsskWkExgrWA5uSnvaEzyQsukHRkRVQFAF0tztVVTxqY2OSnlpFLqeEpk6kTkpnxvK46kk0YwYRju8X3/nWkUknJSyvNCiLtFETeC0UoqlUp1fn5+LaQZYLqphfF/Q0ND1SAIFtLku4qMVqQ3RkcYKZFSHlJKTUeGpJQjSqlvsRx5SUSHs0p8XWBiXt4ioiuxvjIBAOOx/6+J6EAvMA0AaLtDVr2wEbHZW5h5Sik15jjOjoWFhVlEvKnBEHEJAPqjaGZVklaRvKvSquSFEOJIXrJJKe8rpc4lZLSu1OskIzJviGhfXEcbTK1WG2XmZwUwd5RSl0yrKw2GmceUUlO5MFlhDcNwm+/7zXlGShnBtFVPEtB13fFSqaRzqWWlNdKsESI13Mz8SCl1KoJxXXdvvV5/G1kZHh4eiJc/IuqbW5qUtZbpCIaIyoj4m5nvRccUP4K4t4j4mZmfCiEu/CsYfQHqS/IGEV0tyhkdQSHExX8CE5Wr53k3fN+/6nnehBBiAAAcAKgz85Lv+2e1XK1Wc5l5bfBa95yJFDLzdSHEtTAMRwFgMPoeBMF0pVL5Ee/WWdEzTmAA2ICIK3nHkDdWFE14/f39A3Nzc7o5tqzc10G1Wt1ULpfnTb1zHGe7bduzWfLx9pAmU/hUWe07ugnqI+l2vSKig0WbjWAiJXl9I8PQ4uo0V8TR/N8RTAyq8EnTzajaFcwqlIWI+oZvWUSkX58tA5ZRWLqNTFy5lHK3EOI9M+tBa8bUcNcJ3IuBTvb2ckyd2DGS/Quz8qwzdumw9gAAAABJRU5ErkJggg==)](https://www.primefaces.org)
   <br>
   <strong>DataBase</strong> 
@@ -81,12 +85,8 @@
  
   ## 📚 Next up
   
-  [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
-  [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
   [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev)
   [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev)
-  [![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io)
-  [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io)
   [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com)
 
 
