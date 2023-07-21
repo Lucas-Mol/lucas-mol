@@ -84,7 +84,8 @@
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-282A36?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/)
  
   ## 📚 Next up
-  
+
+  [![Firebase](https://img.shields.io/badge/firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=FFCA28)](https://firebase.google.com)
   [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev)
   [![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)](https://expo.dev)
   [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com)
