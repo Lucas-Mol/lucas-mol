@@ -43,6 +43,7 @@
   [![Spring Security](https://img.shields.io/badge/Spring_Security-215811?style=for-the-badge&logo=springsecurity)](https://docs.spring.io/spring-security/reference/index.html)
   [![Spring-Boot](https://img.shields.io/badge/Spring_Boot-5DB32F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
   [![JUnit5](https://img.shields.io/badge/Junit_5-FF113D?style=for-the-badge&logo=junit5)](https://junit.org/junit5/)
+  [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-E96824?style=for-the-badge&logo=rabbitmq&color=white)](https://www.rabbitmq.com/)
   [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
   [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
   [![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io)
@@ -83,6 +84,7 @@
   [![VS Code](https://img.shields.io/badge/VS_Code-277Dff?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com)
   [![EclipseIDE](https://img.shields.io/badge/Eclipse_IDE-F7941E?style=for-the-badge&logo=eclipseide)](https://www.eclipse.org)
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-282A36?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/)
+  [![Docker](https://img.shields.io/badge/Docker-E96824?style=for-the-badge&logo=docker&color=cyan)](https://www.docker.com/)
  
   ## 📚 Next up
 
