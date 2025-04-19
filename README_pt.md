@@ -32,9 +32,10 @@
 
   <img align="right" src="https://cdn.discordapp.com/attachments/778788148921761822/905511491548102707/ezgif.com-gif-maker_1.gif"/>
   
-  ## 🛠 Tech Stack
+   ## 🛠 Tech Stack
   <strong>Backend Stack</strong>
-  
+
+  [![GoLang](https://img.shields.io/badge/Go-8080F8?style=for-the-badge&logo=Go&logoColor=white)](https://go.dev/)
   [![Java](https://img.shields.io/badge/Java-FF5555?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAADuklEQVR4nO3YW4xdUxgH8N0WVRRTJS6DGnWLupUWIV7cqi1VoanrQ2lciwT1onGJxDURTyoRkZAKHpRKE6Riwlvdk0aRukZklFKKaHR+svg2yzanM5FzTveR+Sc7c843+6z9/9b+f7dVFMMYxjDaAvQUnQxc2NFO4G5cWXQiMA59uK3oNGAklvsTlxedBIzCI0H+N+xTdAqwLZ72Nx4tOkzzvRn5TzE+/jca0/EgnsLhRZ2AA/FRRv4nHIGxuAVrw/4kuoo6AUfj24z8r5iGSVidxcLVRd2ACfgqI5+Izg772uxtzCrqCLzon7gq7EkqJeYUdQR2Q39GdHHYt8YvYVtV1BU4oBK0fwQn9srsq4uaV9svgujKzD46HCpxQlFXYFGQ/B5jMvsDmQMrippX3veD6PwBGrkShxZ1BQ7Gusj5IzP7BZkDNxZ1Bo6PYjazEiNfhwPziroDh+CllEYz2zchpZ3q0jIsxGPR66dp69SUdbJ7unFUfD4Ln6TfDbDWlOhaP8ArOKmVxHeudJn9gz0wgvti7Bjf98SJYevG9mEr54afWzY34Dj/xg94Fy/HtTx2dGl8fyOy0+dZVU6/Oa+y9ois4bumJQ7Eg07Bc1mDNhQkwu9F/38rDmqwdm/cv7BlDlQemF793JDDuWlXcU44OTWCeYchrtWFDeHAjHaQHxMyEQ6MGOT+XXB2I33jvlgryW2rlhHPHjijIpPP8AIexkNxPRFxkDLQprjvR1xbKXQzY37oa9uIGcVpfgRw3kpvDimQF+O0skZgVkgnxUd3W8g3mIMvwhW4GXfFdRMuxcnlUF/53UQswL5bhHiQmBc7+Cx2r6TF8TgMl2BJFL5xW/qgahImpyksbKl5y7EhbI1klebmqe0m3hWVsiSb/i6L9mFuBOlg6Iv5+PSBMhZ2xb2DZbP/6sDbGZFXU/lvMFbOzuJgQeg/Obn/ENLsnFj/2FY4kLJHibTbk5t8IHAHNsZban6MpF3J+vkSb+J+nJ9m3VSg8vZ5gDW2wR4pz0fVTqR74/Ar4a0UX7ljzXZibEjjnc3ofFPEx7oobGviWt/g/vWR/8+sFLaUdpc21YGKM92h99vxOF6POFkTWaYM9u/wcezuiuhS74nUm97EqMq6R+KZOBiY0uoqvHeSRRPW2g/XR3LoD2db307EqdsZuC4mstQmXxY90jGRlXrimhhxND0avzvxfBy7iwBeFs3eX1JqG6Lq9gSBRSGVlfgQX4aUNoa8VuG10P4NMZ1t13bSwxjG/wS/A+XhDSVFmDa9AAAAAElFTkSuQmCC)](https://www.oracle.com/br/java/)
   [![Maven](https://img.shields.io/badge/Maven-f28213?style=for-the-badge&logo=apachemaven)](https://maven.apache.org)
   [![Hibernate](https://img.shields.io/badge/Hibernate-404040?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org)
@@ -48,6 +49,7 @@
   [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
   [![Express.js](https://img.shields.io/badge/Express-007F40?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
   [![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io)
+  [![Nest.JS](https://img.shields.io/badge/Nest-B02030?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
   [![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io)
   [![Jest](https://img.shields.io/badge/Jest-007F86?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
@@ -88,12 +90,8 @@
   [![EclipseIDE](https://img.shields.io/badge/Eclipse_IDE-F7941E?style=for-the-badge&logo=eclipseide)](https://www.eclipse.org)
   [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-282A36?style=for-the-badge&logo=intellijidea)](https://www.jetbrains.com/idea/)
   [![Docker](https://img.shields.io/badge/Docker-E96824?style=for-the-badge&logo=docker&color=cyan)](https://www.docker.com/)
+  [![Github Actions](https://img.shields.io/badge/Github_Actions-404040?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
  
   ## 📚 Next up
 
-  [![Nest.JS](https://img.shields.io/badge/Nest-B02030?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
   [![Kubernetes](https://img.shields.io/badge/Kubernetes-6060F8?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-  [![Github Actions](https://img.shields.io/badge/Github_Actions-404040?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/actions)
-
-
-
