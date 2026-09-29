@@ -20,6 +20,8 @@ Desenvolvo e modernizo sistemas backend para plataformas críticas e de alto tr�
 
 🌎 Baseado no Brasil · **Aberto a trabalho remoto (fusos EUA/Canadá) & relocação**
 
+🌐 **Portfólio:** [lucas-mol.github.io](https://lucas-mol.github.io) — simulações interativas de arquitetura, trajetória e stack
+
 ## 🛠 Tech Stack
 
 **Linguagens**
