@@ -20,6 +20,8 @@ I build and modernize backend systems for mission-critical, high-traffic platfor
 
 🌎 Based in Brazil · **Open to remote (US/CA time zones) & relocation**
 
+🌐 **Portfolio:** [lucas-mol.github.io](https://lucas-mol.github.io) — interactive architecture simulations, career journey and stack
+
 ## 🛠 Tech Stack
 
 **Languages**
